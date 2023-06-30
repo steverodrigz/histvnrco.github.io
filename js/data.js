@@ -28,7 +28,7 @@ let linktreeData = [
   },
   {
     id: 4,
-    handleName: "StevenARodriguez.com",
+    handleName: "stvnr.co",
     handleText: "Official Website",
     handleLink: "https://www.stevenarodriguez.com/?utm_source=hi.stvnr.co",
     imgSrc: "images/icons/generic-homepage.svg",
