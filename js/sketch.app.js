@@ -21,7 +21,7 @@ particlesJS(
                 },
             },
             color: {
-                value: ["#f74037", "#1e90ff", "#14b25f", "#ffcc1d"],
+                value: ["#0dcaf0", "#fd7e14", "#676ddb", "#ffc107"],
             },
             shape: {
                 type: ["circle", "triangle", "polygon"],
