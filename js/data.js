@@ -22,7 +22,7 @@ let linktreeData = [
     id: 3,
     handleName: "Schedule",
     handleText: "Let's Chat",
-    handleLink: "https://calendly.com/stvn",
+    handleLink: "https://app.reclaim.ai/m/stvn",
     imgSrc: "images/icons/calendly.svg",
     imgAlt: "LinkedIn",
   },
